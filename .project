@@ -20,11 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>screenshot/gitHistory.png</name>
-			<type>1</type>
-			<location>/Users/johnng/Desktop/gitHistory.png</location>
-		</link>
-	</linkedResources>
 </projectDescription>
